@@ -1,3 +1,4 @@
 # Raw data folder
 
-Use this folder to store raw data.
+Use to store raw data:
+* Netflix data
