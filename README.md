@@ -12,7 +12,7 @@ As we are both big fans of movies it was really a matter of time when we came up
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Our dataset for Netflix shows and films has close to 8000 total number of movies and all of them have unique properties and descriptions. We believe that the dataset that we have chosen is unique from others due to the fact that it is the biggest dataset available about Netflix while also including films from all over the world (international movies). Despite being being immensly large which is close to 8000 unique values (films and TV shows), our data specifies not only the length/duration, the date and the country of production, but also rating, the director and the cast and crew members of each and every film. While being the largest dataset about Netflix, it only has ~3.9% null values and to us it not only sounds impressive but one of a kind. The null values of our dataset is centralized around director column which is accounted for 31% of that column.
 
 ## Team Members
 
@@ -21,4 +21,4 @@ As we are both big fans of movies it was really a matter of time when we came up
 
 ## References
 
-{Add your stuff here}
+https://www.kaggle.com/shivamb/netflix-shows
