@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Kiet Phan: Data Science major student, my Github username is ketphan02.
-- Person 2: one sentence about you!
+- Quan Le: Computer Science major student, my Github username is Kulye.
 - Person 3: one sentence about you!
 
 ## References
