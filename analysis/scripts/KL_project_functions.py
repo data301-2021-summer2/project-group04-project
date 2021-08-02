@@ -9,7 +9,7 @@ def load_and_process(url_or_path_to_csv_file):
     .assign(cast = lambda x: x['cast'].str.split(', ')) #cast into array to compare
     .assign(country = lambda x: x['country'].str.split(', ')) #country into array to compare
     .assign(listed_in = lambda x: x['listed_in'].str.split(', ')) #genre into array to compare
-    .assign(director = lambda x: x['cast'].str.split(', '))
+    #.assign(director = lambda x: x['director'].str.split(', '))
     .rename(columns = {"type": "Type", "title": "Title", "director": "Director", "cast": "Cast", "country": "Country", "date_added": "Date Added", "release_year": "Release Year", "rating": "Rating", "duration": "Duration", "listed_in": "Genre", "description": "Desctiption"}) #rename columns
     )
     return df
