@@ -1,3 +1,3 @@
-# Processed data folder
+# Processed Data
 
-Use this folder to store processed data.
+This store the data has been processed.
